@@ -194,7 +194,7 @@ SELECT
 FROM (VALUES
   ('rajesh.kumar@set.edu.in', 'CSE', 'AI-Based Medical Image Analysis for Early Disease Detection', 'KRMU Research Grant', 800000, '2023-01-01', '2025-12-31', 'research', 'ongoing', 'Development of machine learning models for assisting doctors in early diagnosis using medical imaging.'),
 
-  ('sunita.sharma@set.edu.in', 'ECE', 'IoT-Based Smart Energy Monitoring System', 'Industry Collaboration (TechSolutions Pvt. Ltd.)', 600000, '2022-06-01', '2024-05-31', 'applied', 'ongoing', 'Design and implementation of IoT-based systems for monitoring and optimizing energy consumption in smart buildings.'),
+  ('sunita.sharma@set.edu.in', 'ECE', 'IoT-Based Smart Energy Monitoring System', 'Industry Collaboration (TechSolutions Pvt. Ltd.)', 600000, '2022-06-01', '2024-05-31', 'research', 'ongoing', 'Design and implementation of IoT-based systems for monitoring and optimizing energy consumption in smart buildings.'),
 
   ('anil.verma@set.edu.in', 'ME', 'Design Optimization of Solar Thermal Systems', 'KRMU Internal Funding', 500000, '2021-04-01', '2023-03-31', 'research', 'completed', 'Study on improving efficiency of solar thermal collectors for sustainable energy applications.'),
 
